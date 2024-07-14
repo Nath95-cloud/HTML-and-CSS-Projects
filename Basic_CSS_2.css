@@ -1,0 +1,10 @@
+/*Basic_CSS_2.css*/
+p {
+	color: gold;
+	background-color: red;
+	font-size: large;
+	text-align: right;
+}
+h1{
+	text-shadow; 0px 0px 10px green;
+}

@@ -1,0 +1,12 @@
+/*CSS_Table.css*/
+table{
+	border: 1px solid grey;
+	background-color: light blue;
+	color: lime;
+}
+td:hover{
+	background-color: yellow;
+}
+tc,th,tr{
+	border: 1px dotted gray;
+}
